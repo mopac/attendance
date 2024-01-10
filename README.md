@@ -1,6 +1,9 @@
 # Attendance
 System for maintaining a database of employee arrival and leaving times in multiple work settings.
 
+![image](https://github.com/mopac/attendance/assets/5881829/6f57c495-e3ed-42e0-981c-5209a19f214e)
+![20240103_161211](https://github.com/mopac/attendance/assets/5881829/143f39f9-79a5-453e-90c1-a024b3d0af73)
+
 The system uses remote boxes that respond to fingerprints or tags to identify the employee. That remote box must be connected to wifi, and it makes a web request to a central server that logs the check-in/check-out times.
 The central server is managed via a web interface.
 Any number of remote boxes can be added and all will access the same central server.
